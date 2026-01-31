@@ -12,15 +12,13 @@ public class ItemRepository {
         ITEMS.put("BRONZE_SWORD", new ItemData(
                 "BRONZE_SWORD",
                 "Bronze Sword",
-                "https://oldschool.runescape.wiki/images/Bronze_sword.png",
-                "A basic sword for beginners."
+                "https://oldschool.runescape.wiki/images/Bronze_sword.png"
         ));
 
         ITEMS.put("IRON_SWORD", new ItemData(
                 "IRON_SWORD",
                 "Iron Sword",
-                "https://oldschool.runescape.wiki/images/Iron_sword.png",
-                "Slightly better than a bronze sword."
+                "https://oldschool.runescape.wiki/images/Iron_sword.png"
         ));
 
         // Add more items here...

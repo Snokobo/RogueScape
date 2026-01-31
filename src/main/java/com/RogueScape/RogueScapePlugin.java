@@ -184,7 +184,6 @@ public class RogueScapePlugin extends Plugin
 						locked.add(new UnlockOption(
 								item.getId(),       // id
 								item.getName(),     // name
-								item.getDescription(), // description
 								UnlockType.ITEM     // type
 						));
 					}
